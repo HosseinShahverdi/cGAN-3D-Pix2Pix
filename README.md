@@ -1,5 +1,5 @@
-# MedNifti_DuCycleGan
-Convert CT 3D Nifti images to PET 3D NifTi file with Dual-CycleGan
+# MedNifti_3D_Pix2Pix
+Synthesizing 3D PET/CT images from CT/PET ones.
 
 ## Description
 
