@@ -43,6 +43,6 @@ python main.py
 
 ## License
 
-This project is licensed under the AliMahboubi License - see the LICENSE.md file for details
+This project is written by Hossein Shahverdi.
 
 
